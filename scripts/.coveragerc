@@ -1,0 +1,7 @@
+[run]
+branch = True
+omit = .direnv/*, venv/*, tests/*
+
+
+[report]
+fail_under = 80
